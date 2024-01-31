@@ -40,6 +40,10 @@ form input {
   padding: 0 30px;
 }
 
+::placeholder {
+  color: #92c9db;
+}
+
 form button {
   width: 25%;
   padding: 0 40px;
